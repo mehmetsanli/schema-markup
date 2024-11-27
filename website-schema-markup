@@ -1,0 +1,119 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "Your Website Name",
+  "url": "https://www.yourwebsite.com",
+  "description": "A brief description of your website goes here.",
+  "alternateName": "Your Alternative Website Name",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://www.yourwebsite.com/search?q={search_term_string}",
+    "query-input": "required name=search_term_string"
+  },
+  "inLanguage": ["en", "es", "fr"],
+  "publisher": {
+    "@type": "Organization",
+    "name": "Your Organization Name",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.yourwebsite.com/logo.png"
+    }
+  },
+  "creator": {
+    "@type": "Person",
+    "name": "John Doe"
+  },
+  "copyrightHolder": {
+    "@type": "Organization",
+    "name": "Your Organization Name"
+  },
+  "copyrightYear": 2024,
+  "isPartOf": {
+    "@type": "CreativeWorkSeries",
+    "name": "Your Main Series"
+  },
+  "keywords": "keyword1, keyword2, keyword3",
+  "mainEntityOfPage": "https://www.yourwebsite.com",
+  "hasPart": [
+    {
+      "@type": "WebPage",
+      "name": "About Us",
+      "url": "https://www.yourwebsite.com/about-us"
+    },
+    {
+      "@type": "WebPage",
+      "name": "Contact",
+      "url": "https://www.yourwebsite.com/contact"
+    }
+  ],
+  "sameAs": [
+    "https://www.facebook.com/yourwebsite",
+    "https://twitter.com/yourwebsite",
+    "https://www.linkedin.com/in/yourwebsite"
+  ],
+  "audience": {
+    "@type": "Audience",
+    "audienceType": "General Public"
+  },
+  "accessibilityFeature": [
+    "keyboardNavigable",
+    "textToSpeech"
+  ],
+  "accessibilityHazard": ["noFlashing"],
+  "isAccessibleForFree": true,
+  "license": "https://www.yourwebsite.com/license",
+  "potentialAudience": {
+    "@type": "Audience",
+    "audienceType": "Consumers, Professionals"
+  },
+  "datePublished": "2024-01-01",
+  "dateModified": "2024-11-25",
+  "version": "2.0",
+  "primaryImageOfPage": {
+    "@type": "ImageObject",
+    "url": "https://www.yourwebsite.com/primary-image.jpg"
+  },
+  "relatedLink": [
+    "https://www.yourwebsite.com/blog",
+    "https://www.yourwebsite.com/services"
+  ],
+  "discussionUrl": "https://www.yourwebsite.com/forum",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "reviewCount": 1500
+  },
+  "review": [
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Jane Doe"
+      },
+      "datePublished": "2024-05-10",
+      "reviewBody": "This website offers excellent resources for digital marketing.",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5",
+        "bestRating": "5"
+      }
+    },
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Alex Smith"
+      },
+      "datePublished": "2024-06-15",
+      "reviewBody": "Great website design and useful content!",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "4.5",
+        "bestRating": "5"
+      }
+    }
+  ]
+}
+
+</script>
