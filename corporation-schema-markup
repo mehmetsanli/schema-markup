@@ -1,0 +1,154 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Corporation",
+  "name": "Your Corporation Name",
+  "alternateName": "Your Corporation Alias",
+  "url": "https://www.yourcorporationsite.com",
+  "logo": "https://www.yourcorporationsite.com/logo.png",
+  "image": "https://www.yourcorporationsite.com/featured-image.jpg",
+  "description": "Your Corporation Description goes here.",
+  "foundingDate": "1990-05-15",
+  "founder": {
+    "@type": "Person",
+    "name": "John Doe"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "123 Main Street",
+    "addressLocality": "New York",
+    "addressRegion": "NY",
+    "postalCode": "10001",
+    "addressCountry": "US"
+  },
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "telephone": "+1-800-555-5555",
+      "email": "info@yourcorporationsite.com",
+      "contactType": "Customer Support",
+      "areaServed": ["US", "CA"],
+      "availableLanguage": ["English", "Spanish"]
+    },
+    {
+      "@type": "ContactPoint",
+      "telephone": "+44-20-7946-0958",
+      "email": "support-uk@yourcorporationsite.com",
+      "contactType": "Technical Support",
+      "areaServed": "UK",
+      "availableLanguage": "English"
+    }
+  ],
+  "sameAs": [
+    "https://www.facebook.com/yourcorporation",
+    "https://twitter.com/yourcorporation",
+    "https://www.linkedin.com/company/yourcorporation"
+  ],
+  "duns": "123456789",
+  "isicV4": "6201",
+  "legalName": "Your Corporation Legal Name LLC",
+  "tickerSymbol": "YCN",
+  "naics": "541511",
+  "numberOfEmployees": 500,
+  "parentOrganization": {
+    "@type": "Corporation",
+    "name": "Parent Corporation Name"
+  },
+  "subOrganization": [
+    {
+      "@type": "Corporation",
+      "name": "Subsidiary 1"
+    },
+    {
+      "@type": "Corporation",
+      "name": "Subsidiary 2"
+    }
+  ],
+  "knowsAbout": ["Software Development", "Web Design", "E-commerce Solutions"],
+  "owns": {
+    "@type": "Product",
+    "name": "Product Name",
+    "brand": {
+      "@type": "Brand",
+      "name": "Brand Name"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "99.99",
+      "priceCurrency": "USD"
+    }
+  },
+  "memberOf": {
+    "@type": "Organization",
+    "name": "Chamber of Commerce"
+  },
+  "award": ["Best Corporation 2022", "Top Innovator 2021"],
+  "areaServed": ["US", "CA", "UK", "AU"],
+  "taxID": "123-45-6789",
+  "vatID": "US123456789",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "reviewCount": 250
+  },
+  "review": [
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Jane Doe"
+      },
+      "datePublished": "2024-01-15",
+      "reviewBody": "Excellent services and great customer support.",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5",
+        "bestRating": "5"
+      }
+    },
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Alex Smith"
+      },
+      "datePublished": "2024-02-10",
+      "reviewBody": "Reliable and professional.",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "4",
+        "bestRating": "5"
+      }
+    }
+  ],
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Service Catalog",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Consulting Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Technical Support"
+        }
+      }
+    ]
+  },
+  "slogan": "Your Success, Our Commitment",
+  "ethicsPolicy": "https://www.yourcorporationsite.com/ethics-policy",
+  "diversityPolicy": "https://www.yourcorporationsite.com/diversity-policy",
+  "accessibilityPolicy": "https://www.yourcorporationsite.com/accessibility-policy",
+  "ownershipFundingInfo": "Privately held corporation",
+  "actionableFeedbackPolicy": "https://www.yourcorporationsite.com/feedback-policy",
+  "publicAccess": "https://www.yourcorporationsite.com/public-access",
+  "disambiguatingDescription": "A leading corporation specializing in technology solutions."
+}
+
+</script>
